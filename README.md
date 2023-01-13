@@ -11,10 +11,9 @@
 
   
 <div>
-  <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasc1mento&show_icons=true&locale=en&layout=compact&langs_count=8" alt="nasc1mento" /></p>
+  <p ><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nasc1mento&&show_icons=true&theme=dark" alt="nasc1mento" /></p>
 
-  <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasc1mento&show_icons=true&locale=en" alt="nasc1mento" /></p>
+  <p >&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nasc1mento&theme=dark&&show_icons=true&locale=en&layout=compact&langs_count=8" alt="nasc1mento" /></p>
 
 </div>
-
 
