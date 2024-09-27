@@ -1,8 +1,3 @@
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://br.linkedin.com/in/adryan-reis-9940ba186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adryan-reis-9940ba186" height="30" width="40" /></a>
-
-  
 </p>
 <details>
 <summary>📅 My GitHub Stats</summary>
